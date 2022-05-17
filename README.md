@@ -26,4 +26,3 @@ docker run -p 4000:3838 registry.gitlab.com/analythium/shinyproxy-hello/hello
 
 then visit `127.0.0.1:4000`. Stop the container with Ctrl+C.
 
-(c) Copyright Analythium Solutions Inc, 2019-2020 (MIT).
